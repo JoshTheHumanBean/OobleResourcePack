@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "Ooble Resource Pack"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Gub Gub",
+      "region": "Oobleland",
+      "bidirectional": false
+    }
+  }
+}
